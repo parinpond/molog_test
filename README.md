@@ -3,7 +3,7 @@
 1.API 
 
     cd api
-    node node app.js 
+    node app.js 
 ![Screen Shot 2564-07-06 at 15 53 49](https://user-images.githubusercontent.com/40853593/124572558-edab5a00-de72-11eb-9492-fe52f4faeb89.png)
 
 2.Frontend
